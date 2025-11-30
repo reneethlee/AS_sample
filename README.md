@@ -31,9 +31,9 @@ This repository contains code samples from research projects I contributed to as
 - Calculates polygenic risk scores (PRS)
 - Recodes genotype data for downstream analysis
 
-**Skills demonstrated**: Python (pandas, numpy), PLINK integration, large-scale data QC, GWAS methodology, data pipeline automation, handling confidential genetic data
+**Skills demonstrated**: Python (pandas, numpy), PLINK integration, GWAS methodology, data pipeline automation, handling confidential genetic data
 
-**Tools**: Python, PLINK, subprocess management
+**Tools**: Python, PLINK
 
 ---
 
@@ -52,9 +52,9 @@ This repository contains code samples from research projects I contributed to as
 - Clumping and PRS calculation
 - Comprehensive logging and error handling throughout the pipeline
 
-**Skills demonstrated**: Stata programming, PLINK integration, shell command execution from Stata, reproducible research workflows, multi-tool coordination
+**Skills demonstrated**: Stata programming, PLINK integration, reproducible research workflows, multi-tool coordination
 
-**Tools**: Stata, PLINK, shell scripting
+**Tools**: Stata, PLINK
 
 ---
 
@@ -105,7 +105,7 @@ This repository contains code samples from research projects I contributed to as
 - Rotates through multiple accounts to maximize throughput
 - Uses timed execution with automatic shutdown
 
-**Skills demonstrated**: Python automation, web scraping (Selenium), API interaction, error handling, logging, file I/O, process scheduling, workflow optimization
+**Skills demonstrated**: Python automation, web scraping (Selenium), API interaction, error handling, logging, process scheduling, workflow optimization
 
 **Tools**: Python, Selenium
 
