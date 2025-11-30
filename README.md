@@ -1,2 +1,2 @@
-# AS_sample
+# Coding Sample
 Coding Sample
