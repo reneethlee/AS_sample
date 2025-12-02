@@ -1,8 +1,8 @@
 # Code Portfolio for Job Applications
 
-This repository contains code samples from research projects I contributed to as a Research Assistant at Academia Sinica's Institute of Economics in Taiwan. These samples demonstrate my experience with large-scale administrative data analysis, econometric methods, and computational workflows.
+This repository contains code samples from research projects I contributed to as a Research Assistant at Academia Sinica's Institute of Economics in Taiwan. These samples demonstrate my experience with large-scale data analysis, econometric methods, and computational workflows.
 
-**Note on Data Confidentiality**: All projects use confidential administrative datasets. The code samples provided here contain no data—only the analytical scripts. The actual data remain in secure research data centers and are not included in this repository.
+**Note on Data Confidentiality**: All projects use confidential datasets. The code samples provided here contain no data—only the analytical scripts. The actual data remain in secure research data centers and are not included in this repository.
 
 ---
 
@@ -27,7 +27,6 @@ This repository contains code samples from research projects I contributed to as
 - Performs kinship-based pruning to remove related individuals
 - Calculates principal components for population stratification control
 - Executes GWAS with linear regression controlling for birth year, sex, and principal components
-- Implements LD-based clumping to identify independent genetic signals
 - Calculates polygenic risk scores (PRS)
 - Recodes genotype data for downstream analysis
 
@@ -45,7 +44,7 @@ This repository contains code samples from research projects I contributed to as
 **Description**: This Stata script performs the identical GWAS workflow as the Python version, demonstrating multi-language implementation of the same analytical pipeline. It integrates PLINK commands within Stata to manage genetic data preprocessing and analysis.
 
 **What the code does**:
-- Identical QC steps as Python version (MAF filtering, missingness checks, sex verification, HWE filtering, heterozygosity outlier removal, kinship pruning)
+- Identical QC steps as Python version
 - Principal component calculation for ancestry adjustment
 - Survey data integration with genetic data
 - GWAS execution with covariate adjustment
